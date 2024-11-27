@@ -1,8 +1,7 @@
-package com.example.receiptprocessor.ServiceTests;
+package com.example.receiptprocessor.service;
 
 import com.example.receiptprocessor.model.Item;
 import com.example.receiptprocessor.model.Receipt;
-import com.example.receiptprocessor.service.ReceiptService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
